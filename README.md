@@ -1,4 +1,8 @@
 # AES-python
+Instalar:
+pip install pycryptodome
+pip install crypto
+
 Implementación del Advanced Encryption Standard (AES) en python.
 
 El algoritmo se implementa gracias a las librerias Crypto y Pycryptodome.
