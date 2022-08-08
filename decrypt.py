@@ -1,5 +1,5 @@
 from base64 import b64decode
-from Crypto.Cipher import AES 
+from Crypto.Cipher import AES
 from Crypto.Util.Padding import unpad
 
 with open('key.txt', 'rb') as a_file:
